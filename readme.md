@@ -1,6 +1,7 @@
 # Orkon
 
 Aplikacja została stworzona z myślą o [Orkonie 2016](http://orkon.org) (konwencie gier terenowych).
+
 Całość aplikacji napisana jest w [React Native](https://facebook.github.io/react-native/) 
 
 ## Dev
